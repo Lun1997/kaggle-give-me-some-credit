@@ -25,4 +25,5 @@ metric
 xgboost
 
 * result
+AUC = 0.86
 ![](score.jpg)
