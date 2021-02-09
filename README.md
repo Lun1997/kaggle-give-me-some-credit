@@ -11,19 +11,19 @@ id|SD2yrs|Revo|age|PDNW|DebtRatio|MonthlyIncome|NOOCLAL|NOT90DL|NRELOL|NOTDPDNW|
 4|0|0.233|30|0|0.036|3300|5|0|0|0|0
 5|0|0.907|49|1|0.024|63588|7|0|1|0|0
 
-* feature
+* feature/n
 
 ![](Data/feature.png)
 
-* target
+* target/n
 預測客戶逾期繳款的機率
 
-* 評估方式
+* 評估方式/n
 metric
 
-* model
+* model/n
 xgboost
 
-* result
+* result/n
 AUC = 0.86
 ![](score.jpg)
