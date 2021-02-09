@@ -2,7 +2,7 @@
 kaggle資料集分析(二元分類/xgboost)
 
 * 資料型態 
-id|SeriousDlqin2yrs|RevolvingUtilizationOfUnsecuredLines|age|NumberOfTime30-59DaysPastDueNotWorse|DebtRatio|MonthlyIncome|NumberOfOpenCreditLinesAndLoans|NumberOfTimes90DaysLate|NumberRealEstateLoansOrLines|NumberOfTime60-89DaysPastDueNotWorse|NumberOfDependents
+id|SD2yrs|Revo|age|PDNW|DebtRatio|MonthlyIncome|NOOCLAL|NOT90DL|NRELOL|NOTDPDNW|NOD
 ---|---|---|---|---|---|---|---|---|---|---
 1|1|0.766|45|2|0.802|9120|13|0|6|0|2
 2|0|0.957|40|0|0.121|2600|4|0|0|0|1
