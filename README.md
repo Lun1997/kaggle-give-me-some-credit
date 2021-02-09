@@ -1,5 +1,5 @@
 # kaggle : give me some credit
-kaggle資料集分析(二元分類/xgboost)
+kaggle資料集分析(二元分類)
 
 * 資料型態 : 150000 x 11 
 
@@ -16,3 +16,13 @@ id|SD2yrs|Revo|age|PDNW|DebtRatio|MonthlyIncome|NOOCLAL|NOT90DL|NRELOL|NOTDPDNW|
 ![](Data/feature.png)
 
 * target
+預測客戶逾期繳款的機率
+
+* 評估方式
+metric
+
+* model
+xgboost
+
+* result
+![](Data/feature.png)
