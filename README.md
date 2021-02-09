@@ -25,4 +25,4 @@ metric
 xgboost
 
 * result
-![](Data/feature.png)
+![](score.jpg)
