@@ -1,7 +1,8 @@
 # kaggle : give me some credit
 kaggle資料集分析(二元分類/xgboost)
 
-* 資料型態 
+* 資料型態
+
 id|SD2yrs|Revo|age|PDNW|DebtRatio|MonthlyIncome|NOOCLAL|NOT90DL|NRELOL|NOTDPDNW|NOD
 ---|---|---|---|---|---|---|---|---|---|---
 1|1|0.766|45|2|0.802|9120|13|0|6|0|2
