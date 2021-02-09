@@ -18,8 +18,8 @@ id|SD2yrs|Revo|age|PDNW|DebtRatio|MonthlyIncome|NOOCLAL|NOT90DL|NRELOL|NOTDPDNW|
 * target<br>
 預測客戶逾期繳款的機率
 
-* 評估方式<br>
-metric
+* metric<br>
+AUC
 
 * model<br>
 xgboost
