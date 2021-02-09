@@ -12,4 +12,4 @@ id|SD2yrs|Revo|age|PDNW|DebtRatio|MonthlyIncome|NOOCLAL|NOT90DL|NRELOL|NOTDPDNW|
 5|0|0.907|49|1|0.024|63588|7|0|1|0|0
 
 * feature
-![](feature.png)
+![](Data/feature.png)
