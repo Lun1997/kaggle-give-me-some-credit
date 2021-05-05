@@ -1,7 +1,9 @@
 # kaggle : give me some credit
-kaggle資料集分析(二元分類)
+kaggle資料集分析(二元分類)<br>
 
-* 資料型態 : 150000 x 11 
+
+* 資料概述 : 信用卡客戶的各項資訊與是否欠款 
+* 資料維度 : 150000 x 11 
 
 id|SD2yrs|Revo|age|PDNW|DebtRatio|MonthlyIncome|NOOCLAL|NOT90DL|NRELOL|NOTDPDNW|NOD
 ---|---|---|---|---|---|---|---|---|---|---|---
