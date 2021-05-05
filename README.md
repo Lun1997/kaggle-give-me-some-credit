@@ -26,4 +26,4 @@ xgboost
 
 * result<br>
 AUC = 0.86<br>
-![](score.jpg)
+![](https://github.com/Lun1997/kaggle-give-me-some-credit/blob/main/GiveMeSomeCredit.png)
